@@ -1,4 +1,0 @@
-Generators are functions which can be exited and later re-entered. Their context (variable bindings) will be saved across re-entrances.
-
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*
